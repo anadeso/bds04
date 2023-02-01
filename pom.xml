@@ -70,7 +70,12 @@
 			<groupId>org.springframework.security.oauth.boot</groupId>
 			<artifactId>spring-security-oauth2-autoconfigure</artifactId>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>com.devsuperior</groupId>
+            <artifactId>dscatalog</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 	<build>
 		<plugins>
