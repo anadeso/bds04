@@ -1,9 +1,7 @@
 package com.devsuperior.bds04.dto;
 
-import java.io.Serializable;
-
 import com.devsuperior.bds04.entities.City;
-
+import java.io.Serializable;
 import javax.validation.constraints.NotBlank;
 
 public class CityDTO implements Serializable {
